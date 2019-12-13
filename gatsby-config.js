@@ -4,6 +4,7 @@ module.exports = {
     position: `FullStack Developer`,
     description: `This is a fake blog to learn gatsby`,
     author: `@renatosiqueira`,
+    siteUrl: `https://renatosiqueira.dev`
   },
   plugins: [
     `gatsby-plugin-styled-components`,
